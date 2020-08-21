@@ -1,0 +1,26 @@
+﻿add_namespace = ukmutapa
+
+# Formation of Kingdom of Mutapa
+news_event = {
+	id = ukmutapa.1
+	title = ukmutapa.1.t
+	desc = ukmutapa.1.desc
+	picture = GFX_news_event_generic_parliament
+
+	is_triggered_only = yes
+	
+	option = {
+		name = ukmutapa.1.a
+		trigger = {
+			original_tag = ENG
+		}
+	}
+	option = {
+		name = ukmutapa.1.b
+		trigger = {
+			NOT = {
+				original_tag = ENG
+			}
+		}
+	}
+}

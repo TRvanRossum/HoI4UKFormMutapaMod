@@ -1,0 +1,7 @@
+﻿l_english:
+ ENG_form_mutapa:0 "Form Mutapa"
+ form_mutapa_dominion:0 "Each state necessary for forming Mutapa is either owned by [ENG.GetNameDef] or [SAF.GetNameDef]"
+ ukmutapa.1.t:0 "The British government creates [SAF.GetNameDef]"
+ ukmutapa.1.desc:0 "As the British continue to control more of Africa, attempts at creating historical continuity in the colonies have become more and more apparent, evidently in an attempt to create a hegemony over the African continent. The achievements of the Great Zimbabwean Empire have been strongly romanticized in the old South African dominion, but incessant propaganda seems to be having an effect on public opinion.\n\nToday, the British government has taken this one step further and re-named [SAF.GetOldName] to '[SAF.GetNameDef]', an announcement that was greeted by exuberant crowds in the streets of the major cities of both [ENG.GetNameDef] and [SAF.GetNameDef]."
+ ukmutapa.1.a:0 "A splendid job!"
+ ukmutapa.1.b:0 "The British continue their colonial expansion in Africa..."
